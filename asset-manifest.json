@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/travel-expo/static/css/main.6e9e3f3e.chunk.css",
+    "main.js": "/travel-expo/static/js/main.3eecaca3.chunk.js",
+    "main.js.map": "/travel-expo/static/js/main.3eecaca3.chunk.js.map",
+    "runtime-main.js": "/travel-expo/static/js/runtime-main.78904958.js",
+    "runtime-main.js.map": "/travel-expo/static/js/runtime-main.78904958.js.map",
+    "static/js/2.5366868c.chunk.js": "/travel-expo/static/js/2.5366868c.chunk.js",
+    "static/js/2.5366868c.chunk.js.map": "/travel-expo/static/js/2.5366868c.chunk.js.map",
+    "index.html": "/travel-expo/index.html",
+    "precache-manifest.d5ae081ad50dbe6d0e0fb6d0e45b3a46.js": "/travel-expo/precache-manifest.d5ae081ad50dbe6d0e0fb6d0e45b3a46.js",
+    "service-worker.js": "/travel-expo/service-worker.js",
+    "static/css/main.6e9e3f3e.chunk.css.map": "/travel-expo/static/css/main.6e9e3f3e.chunk.css.map",
+    "static/js/2.5366868c.chunk.js.LICENSE.txt": "/travel-expo/static/js/2.5366868c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78904958.js",
+    "static/js/2.5366868c.chunk.js",
+    "static/css/main.6e9e3f3e.chunk.css",
+    "static/js/main.3eecaca3.chunk.js"
+  ]
+}

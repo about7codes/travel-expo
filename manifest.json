@@ -1,0 +1,20 @@
+{
+  "short_name": "Travel Expo",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "travel.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "travel.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#82b340",
+  "background_color": "#ffffff"
+}
